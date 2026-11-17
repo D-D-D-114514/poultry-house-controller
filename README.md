@@ -76,3 +76,10 @@ cmake --build build/Release
 
 ---
 作者：韩昊峻 · 河池学院 电气工程及其自动化 · 2027 届
+
+## 许可证
+
+本项目采用 [MIT License](LICENSE)。
+
+仓库内含 ST 官方代码：`Drivers/CMSIS/`、`Drivers/STM32F1xx_HAL_Driver/`，
+版权归 STMicroelectronics，按其自带许可证（BSD-3-Clause）分发，原始 `LICENSE.txt` 已保留。
